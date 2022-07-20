@@ -1,4 +1,4 @@
-# NetworkPlus App API
+# NetworkPlus API
 Social networking api
  
 By using the following endpoint, URL is formed by baseurl + endpoint and API communication is performed.
