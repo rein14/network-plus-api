@@ -1,4 +1,4 @@
-# Python-snippets
+# Network-Plus API
 Personal python code snippets.
 
 By using the following endpoint, URL is formed by baseurl + endpoint and API communication is performed.
